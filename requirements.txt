@@ -1,0 +1,14 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-requests
+robotframework-databaselibrary
+robotframework-allure-plugin
+selenium
+allure-robotframework
+PyMySQL # Example for MySQL, can be changed based on DB
+psycopg2-binary # Example for PostgreSQL, can be changed based on DB
+
+
+
+influxdb-client
+
